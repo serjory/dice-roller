@@ -2,7 +2,7 @@
   "name": "dice-roller",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://serjory.github.io/slidingpuzzle",
+  "homepage": "https://serjory.github.io/dice-roller",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
