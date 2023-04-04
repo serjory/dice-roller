@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/slidingpuzzle/static/css/main.e6c13ad2.css",
-    "main.js": "/slidingpuzzle/static/js/main.9ab0322c.js",
-    "static/js/787.035206b4.chunk.js": "/slidingpuzzle/static/js/787.035206b4.chunk.js",
-    "index.html": "/slidingpuzzle/index.html",
-    "main.e6c13ad2.css.map": "/slidingpuzzle/static/css/main.e6c13ad2.css.map",
-    "main.9ab0322c.js.map": "/slidingpuzzle/static/js/main.9ab0322c.js.map",
-    "787.035206b4.chunk.js.map": "/slidingpuzzle/static/js/787.035206b4.chunk.js.map"
+    "main.css": "/dice-roller/static/css/main.e6c13ad2.css",
+    "main.js": "/dice-roller/static/js/main.88c1dc2a.js",
+    "static/js/787.035206b4.chunk.js": "/dice-roller/static/js/787.035206b4.chunk.js",
+    "index.html": "/dice-roller/index.html",
+    "main.e6c13ad2.css.map": "/dice-roller/static/css/main.e6c13ad2.css.map",
+    "main.88c1dc2a.js.map": "/dice-roller/static/js/main.88c1dc2a.js.map",
+    "787.035206b4.chunk.js.map": "/dice-roller/static/js/787.035206b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.9ab0322c.js"
+    "static/js/main.88c1dc2a.js"
   ]
 }
